@@ -1,4 +1,4 @@
-# 🌦️ Pipeline Data Cloud : Prévisions Météo pour GreenAndCoop
+#  Pipeline Data Cloud : Prévisions Météo pour GreenAndCoop
 
 ## Contexte du projet
 
