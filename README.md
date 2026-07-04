@@ -1,4 +1,4 @@
-#  Pipeline Data Cloud : Prévisions Météo pour GreenAndCoop
+#  Architecture & Pipeline de Données Météorologiques - Cloud AWS
 
 ## Contexte du projet
 
