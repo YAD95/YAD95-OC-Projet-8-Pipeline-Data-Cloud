@@ -35,4 +35,4 @@ Pour aller à l'essentiel, ce dépôt se concentre sur la logique de transformat
 *   `forecast_project/` : Contient tout le code source dbt (modèles SQL de staging et marts, tests de qualité de la donnée, configuration `dbt_project.yml`).
 *   `assets/` : Contient les schémas architecturaux de la base de données et le logigramme complet de l'infrastructure Cloud.
 *   `Dockerfile` & `docker-compose.yml` : Fichiers de configuration pour la conteneurisation du projet.
-*   `forecast_project/` : Contient un présentation de tous les étapes jusqu'au déploiement final dans le cloud 
+*   `prénsentation.pdf` : Contient un présentation de tous les étapes jusqu'au déploiement final dans le cloud 
