@@ -39,5 +39,5 @@ Le pipeline est entièrement déployé de manière automatisée et Serverless su
 Pour aller à l'essentiel, ce dépôt se concentre sur la logique de transformation et l'infrastructure :
 
 *   `forecast_project/` : Contient tout le code source dbt (modèles SQL de staging et marts, tests de qualité de la donnée, configuration `dbt_project.yml`).
-*   `assets/` : Contient les schémas architecturaux de la base de données, le logigramme complet de l'infrastructure Cloud, ainsi qu'une présentation visuelle des étapes du projet.
+*   `assets/` : Contient une présentation visuelle des étapes du projet, le logigramme complet de l'infrastructure Cloud et les schémas architecturaux de la base de données.
 *   `Dockerfile` & `docker-compose.yml` : Fichiers de configuration pour la conteneurisation du projet.
