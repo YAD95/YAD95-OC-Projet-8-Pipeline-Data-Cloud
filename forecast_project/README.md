@@ -24,7 +24,7 @@ Ce projet suit une architecture moderne de type ELT (Extract, Load, Transform) :
 
 ## Architecture Cloud (AWS)
 Le pipeline est entièrement déployé de manière automatisée et Serverless sur Amazon Web Services (AWS) :
-*   **Amazon EC2 :** Serveur virtuel (machine cloud) utilisé pour héberger et exécuter l'outil d'ingestion Airbyte.
+
 *   **Amazon EC2 :** Serveur virtuel (machine cloud) utilisé pour héberger et exécuter l'outil d'ingestion Airbyte.
 *   **Amazon RDS (PostgreSQL) :** Le Data Warehouse hébergeant les données brutes et les tables transformées.
 *   **AWS IAM :** Gestion stricte des identités, création des rôles et des politiques de sécurité pour limiter les accès.
